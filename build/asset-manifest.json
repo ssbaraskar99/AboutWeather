@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bcf5fca4.css",
+    "main.js": "/static/js/main.0114b488.js",
+    "static/js/27.2f87adc6.chunk.js": "/static/js/27.2f87adc6.chunk.js",
+    "static/media/OpenWeather-Master-Logo RGB.png": "/static/media/OpenWeather-Master-Logo RGB.cb73a0aa205b7348fb36.png",
+    "static/media/notfoundpage.svg": "/static/media/notfoundpage.26fc8bc18918cb5010aaa524212b7edf.svg",
+    "static/media/AboutWeatherLogo.svg": "/static/media/AboutWeatherLogo.7d425f0284f02c2fbbab42087785723b.svg",
+    "index.html": "/index.html",
+    "static/media/arrow-right-circle-fill.svg": "/static/media/arrow-right-circle-fill.e82a037e1e708e843f59.svg",
+    "static/media/arrow-left-circle-fill.svg": "/static/media/arrow-left-circle-fill.0aa903ff33bc5c4457d0.svg"
+  },
+  "entrypoints": [
+    "static/css/main.bcf5fca4.css",
+    "static/js/main.0114b488.js"
+  ]
+}
