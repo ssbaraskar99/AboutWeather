@@ -1,3 +1,4 @@
+[How does the website looks ?](https://drive.google.com/file/d/1vae4OfEr1C0TSbaR78GbpiSL_Wp2QFJk/view?usp=sharing)
 #### Terms & Conditions
 ###### Terms of Use:
 - Users/Visitors are only allowed to read/view weather data for personal use.
